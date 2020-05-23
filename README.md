@@ -27,3 +27,6 @@ Waffle Chart <br>
 Word Cloud <br>
 Regression Plot <br>
 
+### Data Visualization Final Assignment
+Geo Plot Using Folium
+
